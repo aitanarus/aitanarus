@@ -44,7 +44,7 @@ I am a passionate software engineering graduate with a **BSc in Software Technol
 ### **Software Engineer**, Beumer Group - Aarhus, Denmark
 - Contributed to a web-based system for airport baggage handling.
 - Pioneered microservices cloud architecture in the team, leading to increased scalability.
-- Developed frontend and backend systems using **Angular**, **C#**, and **RabbitMQ**.
+- Developed frontend and backend systems using **Angular and Typescript**, **.NET and C#**, **gRPC** and **RabbitMQ**.
 
 ---
 
