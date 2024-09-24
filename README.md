@@ -3,7 +3,7 @@
 # Hi, I'm Aitana Rus Lopez! 👋
 - 💻 Software Engineer | Full-Stack Developer | Cloud Enthusiast
 - 🌱 Currently learning: Microservices, Cloud Development, and Modern Web Technologies
-- 🚀 Check out my latest project: [Flight Booking System](https://github.com/aitanalopez/flight-booking-system)
+- 🚀 Check out my latest project: [Flight Booking System](https://github.com/aitanarus/flight-booking-system)
 
 I am a passionate software engineering graduate with a **BSc in Software Technology Engineering** from Denmark. Over the past four years, I've worked across different technologies, focusing on **full-stack development**, **distributed systems**, and **microservices**. My experience spans both academic and professional settings, having contributed to real-time, large-scale applications and innovative solutions in the airport industry.
 
@@ -21,7 +21,7 @@ I am a passionate software engineering graduate with a **BSc in Software Technol
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AitanaRusLopez&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aitanarus&show_icons=true&theme=radical)
 
 ---
 
