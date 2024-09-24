@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Aitana Rus Lopez! 👋
+# I'm Aitana Rus! 👋
 - 💻 Software Engineer | Full-Stack Developer | Cloud Enthusiast
 - 🌱 Currently learning: Microservices, Cloud Development, and Modern Web Technologies
 - 🚀 Check out my latest project: [Flight Booking System](https://github.com/aitanarus/flight-booking-system)
